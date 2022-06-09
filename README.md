@@ -12,8 +12,8 @@ This is still a work in progress and errors in testing have not yet been correct
 
 Terminal Commands:
 ```
-$ git clone https://github.com/ZanClifton/juice-bar.git
-$ cd juice-bar
+$ git clone https://github.com/ZanClifton/squeeze-the-day-juice-bar.git
+$ cd squeeze-the-day-juice-bar
 $ code .
 ```
 
