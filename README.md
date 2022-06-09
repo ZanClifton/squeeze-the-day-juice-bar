@@ -26,7 +26,7 @@ $ npm install
 ### ✔️ 3. RUN TESTS
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
 
-```
+```Shields IO
 $ npm test
 ```
 
@@ -62,3 +62,9 @@ $ node -v | v17.7.1
 ```
 
 The above command will also enable you to check your own version in the terminal. It is recommended you update to the most recent version prior to working with this app.
+
+#
+<div align=right>
+  <h6> Project created with thanks to: <a href="https://northcoders.com/">Northcoders</a>
+  <br>README.md created with thanks to: <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a></h6> 
+</div>
