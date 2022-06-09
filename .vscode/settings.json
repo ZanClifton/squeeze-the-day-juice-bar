@@ -1,0 +1,4 @@
+{
+    "prettier.singleQuote": true,
+    "terminal.integrated.scrollback": 10000
+}
