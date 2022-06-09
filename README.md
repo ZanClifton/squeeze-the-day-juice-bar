@@ -1,4 +1,4 @@
-# Juicy Juice Bar - The Server
+# Squeeze The Day Juice Bar - The Server
 
 This was my first ever tech test. I didn't progress because I made some not-insignificant mistakes, but I have decided to work on the repo and develop it in a different direction to help me learn some new things!
 
